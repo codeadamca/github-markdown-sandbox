@@ -15,6 +15,3 @@ Etiam efficitur consequat nibh ut dignissim. Donec vel elit finibus, cursus eros
 
 [Home](/) | 
 [About](/about)
-
-
-
