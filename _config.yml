@@ -26,10 +26,6 @@ linkedin_username: adambenjaminthomas
 theme: minima
 show_excerpts: true
 
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-
 domain: "markdown.codeadam.ca"
 url: "https://markdown.codeadam.ca/"
 baseurl: ""
