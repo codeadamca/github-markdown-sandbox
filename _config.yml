@@ -3,3 +3,9 @@ plugins:
   - jekyll-remote-theme 
 title: Deploy Markdown
 description: A sandbox for testing out GitHub Pages and Markdown.
+header_pages:
+  - about.md
+  - index.md
+twitter_username: brickmmo
+github_username:  BrickMMO
+instagram_username: brickmmo
