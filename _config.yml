@@ -1,6 +1,6 @@
-remote_theme: pages-themes/minima@v2.5.1
+remote_theme: jekyll/minima@3cdd14d
 plugins:
-  - jekyll-remote-theme 
+  - jekyll-remote-theme
 title: Deploy Markdown
 description: A sandbox for testing out GitHub Pages and Markdown.
 header_pages:
