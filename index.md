@@ -26,6 +26,13 @@ Proin eget dui vehicula urna lobortis viverra sit amet quis dui. Nunc a urna jus
 - List Item One
 - List Item Two
 
+
+## Sample Code
+
+```html
+<h1>Testing HTML</h1>
+```
+
 ***
 
 [Home](/) | 
