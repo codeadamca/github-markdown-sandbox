@@ -5,7 +5,7 @@
 
 A sandbox for testing out GutHub Pages and Markdown.
 
-> This repo is available to view at
+> This repo is available to view at:  
 > [https://markdown.codeadam.ca](https://markdown.codeadam.ca).
 
 ---
