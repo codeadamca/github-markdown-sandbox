@@ -1,6 +1,6 @@
 # GitHub Pages and Markdown
 
-> **Warning**  
+> [!Warning]  
 > This repo is a work in progress!
 
 A sandbox for testing out GutHub Pages and Markdown.
