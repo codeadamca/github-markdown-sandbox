@@ -6,7 +6,7 @@
 A sandbox for testing out GutHub Pages and Markdown.
 
 > This repo is available to view at:  
-> [https://markdown.codeadam.ca](https://markdown.codeadam.ca).
+> [https://codeadamca.github.io/github-pages-deploy-markdown/](https://codeadamca.github.io/github-pages-deploy-markdown/).
 
 ---
 
